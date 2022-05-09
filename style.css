@@ -12,6 +12,7 @@
 
 #about {
   padding-top: 6rem;
+  min-height: 700px;
 }
 
 #Prestasi {
@@ -20,4 +21,8 @@
 
 #footer {
   background-color: #242020;
+}
+
+#anggota {
+  min-height: 700px;
 }
