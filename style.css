@@ -1,6 +1,9 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: #e3edff;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/IMG_7057.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 700px;
 }
 
 #scroll {
